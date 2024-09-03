@@ -47,4 +47,5 @@ Thanks to the React.js community for their support and inspiration.
 Icons and some design elements are powered by Bootstrap.
 Contact
 
-For any inquiries, feel free to reach out via LinkedIn.
+For any inquiries, fee<img width="1280" alt="Screenshot 2024-08-26 at 4 48 45 PM" src="https://github.com/user-attachments/assets/f9b1aea7-dc59-4aa4-8559-46fe156743d5">
+l free to reach out via LinkedIn.
